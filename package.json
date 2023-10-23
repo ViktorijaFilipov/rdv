@@ -1,0 +1,13 @@
+{
+  "name": "rdv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ViktorijaFilipov <viktorija.filipov3141@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test:run": "yarn cypress run"
+  },
+  "dependencies": {
+    "cypress": "^13.3.2"
+  }
+}
